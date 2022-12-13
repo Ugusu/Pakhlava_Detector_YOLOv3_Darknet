@@ -1,0 +1,2 @@
+yolov3_training_last.weights file is 234MB. GitHub can't accept it. Therefore, it's on the Google Drive, as well as other file, used for training:
+https://drive.google.com/drive/folders/1u_CTKW5K-nsx8q2d4HHQJwhN_ff2Xtea?usp=sharing
